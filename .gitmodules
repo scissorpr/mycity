@@ -1,0 +1,3 @@
+[submodule "mybuiling"]
+	path = mybuiling
+	url = https://github.com/scissorpr/mybuiling.git
